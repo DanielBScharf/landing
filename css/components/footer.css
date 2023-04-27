@@ -1,0 +1,12 @@
+.footer {
+  display: inline-block;
+  display: flex;
+  list-style: none;
+  align-items: center;
+  font-size: xx-large;
+  justify-content: center;
+}
+
+.footer h3 {
+  align-items: center;
+}
